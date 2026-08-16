@@ -1,8 +1,8 @@
-> **Archived upstream fork/reference — do not use for new work.**  
+> **Archive pending — do not use this repository for new work.** This upstream fork/reference is scheduled for archive once repository administration permission is available.  
 > **Upstream:** [https://github.com/cline/cline](https://github.com/cline/cline)  
 > **License/provenance:** Preserved upstream history and existing license/provenance notices (Apache-2.0).  
 > **Current code, releases, issues, and security:** Use upstream.  
-> **Maintained pc-style delta:** None (apart from this archive notice).
+> **Maintained pc-style delta:** None (apart from repository-status notices).
 
 <div align="center"><sub>
 English | <a href="https://github.com/cline/cline/blob/main/locales/es/README.md" target="_blank">Español</a> | <a href="https://github.com/cline/cline/blob/main/locales/de/README.md" target="_blank">Deutsch</a> | <a href="https://github.com/cline/cline/blob/main/locales/ja/README.md" target="_blank">日本語</a> | <a href="https://github.com/cline/cline/blob/main/locales/zh-cn/README.md" target="_blank">简体中文</a> | <a href="https://github.com/cline/cline/blob/main/locales/zh-tw/README.md" target="_blank">繁體中文</a> | <a href="https://github.com/cline/cline/blob/main/locales/ko/README.md" target="_blank">한국어</a>
